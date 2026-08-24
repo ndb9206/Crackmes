@@ -1,2 +1,0 @@
-# Crackmes
-# NDB9206
